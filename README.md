@@ -17,7 +17,7 @@
 
   <br />
   
-  [![Hoyame's github stats](https://github-readme-stats.vercel.app/api?username=hoyame&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![ArzonCorp's github stats](https://github-readme-stats.vercel.app/api?username=hoyame&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoyame&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
@@ -26,7 +26,7 @@
 ### Languages and tools
 
 <a href=https://discord.gg/sU4gH2r target="blank"><img align="center" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png alt="tools Visual Studio Code" width="26" /></a>
-<a href=https://discord.gg/sU4gH2r target="blank"><img align="center" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png alt="languages HTML5"  width="26" /></a>
+<a href=https://discord.gg/sU4gH2r target="blank"><img align="center" 
 <a href=https://discord.gg/sU4gH2r target="blank"><img align="center" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png alt="languages CSS3"  width="26" /></a>
 <a href=https://discord.gg/sU4gH2r target="blank"><img align="center" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png alt="languages Sass"  width="26" /></a>
 <a href=https://discord.gg/sU4gH2r target="blank"><img align="center" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png alt="languages JavaScript"  width="26" /></a>
